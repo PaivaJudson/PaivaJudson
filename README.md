@@ -46,8 +46,6 @@ Methodologies
 
 Scrum • RUP • XP • Clean Architecture • OO Design
 
-📊 GitHub Stats
-<div style="display: flex; gap: 20px;"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PaivaJudson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaivaJudson&layout=compact&langs_count=10&theme=tokyonight"/> </div>
 🚀 Current Focus
 
 Specializing in AWS Data Engineering
