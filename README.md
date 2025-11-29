@@ -3,7 +3,6 @@
 * 🌱 I’m currently learning: Advanced Python (FastAPI, concurrency & async), AWS Data Engineering (Glue, Lambda, Redshift, EMR), Apache Spark, and modern software architecture for scalable systems.
 * 💼 What I do: University Lecturer in Engineering (Software Engineering, Databases, Algorithms) • Software Project Consultant • Mentor to young developers • Creator of educational and technical content.
 * 💞️ I’m looking to collaborate on: Open-source educational tools, backend systems, data pipelines, engineering-for-impact projects, and community-driven tech initiatives in Angola and abroad.
-* 📫 How to reach me: Email: paivajudson@gmail.com
 
 🚀 About Me
 I’m an Angolan Software Engineer and Professor passionate about building reliable systems and empowering the next generation of engineers. I combine academic teaching with real-world consulting, helping students and professionals understand concepts deeply and apply them in practical scenarios.
