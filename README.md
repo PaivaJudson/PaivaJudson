@@ -9,11 +9,11 @@ I’m an Angolan Software Engineer and Professor passionate about building relia
 I’ve supervised dozens of capstone projects, mentored more than 80 programmers, and contributed to strengthening the tech community through training and volunteering.
 
 🛠️ Tech Stack
-Languages: Python • Java • JavaScript • SQL • C#;
-Backend: FastAPI • Spring Boot • Node.js (basics);
-Databases: MySQL • PostgreSQL • SQL Server • MongoDB • Firebase;
-Data Engineering / Analytics: Pandas • Spark • AWS Glue • AWS Lambda • Redshift • ETL Pipelines;
-Other: Git & GitHub • Docker • UML • BPMN • Software Architecture • Unit Testing;
+* Languages: Python • Java • JavaScript • SQL • C# ;
+* Backend: FastAPI • Spring Boot • Node.js (basics);
+* Databases: MySQL • PostgreSQL • SQL Server • MongoDB • Firebase;
+* Data Engineering / Analytics: Pandas • Spark • AWS Glue • AWS Lambda • Redshift • ETL Pipelines;
+* Other: Git & GitHub • Docker • UML • BPMN • Software Architecture • Unit Testing;
 
 📚 Current Focus
 * Becoming a strong AWS Data Engineer
