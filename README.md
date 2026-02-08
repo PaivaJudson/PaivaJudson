@@ -29,7 +29,6 @@ I’ve supervised dozens of capstone projects, mentored more than 80 programmers
 📫 How to Reach Me
 
 📧 Email: judsonpaiva16@gmail.com
-
 🔗 LinkedIn: https://www.linkedin.com/in/judson-paiva
 
 🐙 GitHub: @PaivaJudson
