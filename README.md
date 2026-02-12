@@ -1,4 +1,4 @@
-👋 Hi, I’m @PaivaJudson
+👋 Hi, I’m #@PaivaJudson#
 * 👀 I’m interested in: Software Engineering, Data Engineering, Cloud Computing (AWS & Azure), Algorithms, Databases, Cybersecurity, Educational Technology, and Applied Machine Learning.
 * 🌱 I’m currently learning: Advanced Python (FastAPI, concurrency & async), AWS Data Engineering (Glue, Lambda, Redshift, EMR), Apache Spark, and modern software architecture for scalable systems.
 * 💼 What I do: University Lecturer in Engineering (Software Engineering, Databases, Algorithms) • Software Project Consultant • Mentor to young developers • Creator of educational and technical content.
