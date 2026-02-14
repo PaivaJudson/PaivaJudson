@@ -1,7 +1,7 @@
 👋 Hi, I’m @PaivaJudson 
-* 👀 I’m interested in: Software Engineering, Data Engineering, Cloud Computing (AWS & Azure), Algorithms, Databases, Cybersecurity, Educational Technology, and Applied Machine Learning.
-* 🌱 I’m currently learning: Advanced Python (FastAPI, concurrency & async), AWS Data Engineering (Glue, Lambda, Redshift, EMR), Apache Spark, and modern software architecture for scalable systems.
-* 💼 What I do: University Lecturer in Engineering (Software Engineering, Databases, Algorithms) • Software Project Consultant • Mentor to young developers • Creator of educational and technical content.
+* 👀 I’m interested in:  Software Engineering, Data Engineering, Cloud Computing (AWS & Azure), Algorithms, Databases, Cybersecurity, Educational Technology, and Applied Machine Learning.
+* 🌱 I’m currently learning:  Advanced Python (FastAPI, concurrency & async), AWS Data Engineering (Glue, Lambda, Redshift, EMR), Apache Spark, and modern software architecture for scalable systems.
+* 💼 What I do:  University Lecturer in Engineering (Software Engineering, Databases, Algorithms) • Software Project Consultant • Mentor to young developers • Creator of educational and technical content.
 * 💞️ I’m looking to collaborate on: Open-source educational tools, backend systems, data pipelines, engineering-for-impact projects, and community-driven tech initiatives in Angola and abroad.
 
 🚀 About Me
@@ -9,11 +9,11 @@ I’m an Angolan Software Engineer and Professor passionate about building relia
 I’ve supervised dozens of capstone projects, mentored more than 80 programmers, and contributed to strengthening the tech community through training and volunteering.
 
 🛠️ Tech Stack
-* Languages: Python • Java • JavaScript • SQL • C# ;
-* Backend: FastAPI • Spring Boot • Node.js (basics);
-* Databases: MySQL • PostgreSQL • SQL Server • MongoDB • Firebase;
+* Languages:  Python • Java • JavaScript • SQL • C# ;
+* Backend:  FastAPI • Spring Boot • Node.js (basics);
+* Databases:  MySQL • PostgreSQL • SQL Server • MongoDB • Firebase;
 * Data Engineering / Analytics: Pandas • Spark • AWS Glue • AWS Lambda • Redshift • ETL Pipelines;
-* Other: Git & GitHub • Docker • UML • BPMN • Software Architecture • Unit Testing;
+* Other:  Git & GitHub • Docker • UML • BPMN • Software Architecture • Unit Testing;
 
 📚 Current Focus
 * Becoming a strong AWS Data Engineer
