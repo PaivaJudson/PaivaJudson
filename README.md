@@ -1,36 +1,40 @@
-👋 Hi, I’m @PaivaJudson 
-* 👀 I’m interested in:  Software Engineering, Data Engineering, Cloud Computing (AWS & Azure), Algorithms, Databases, Cybersecurity, Educational Technology, and Applied Machine Learning.
-* 🌱 I’m currently learning:  Advanced Python (FastAPI, concurrency & async), AWS Data Engineering (Glue, Lambda, Redshift, EMR), Apache Spark, and modern software architecture for scalable systems.
-* 💼 What I do:  University Lecturer in Engineering (Software Engineering, Databases, Algorithms) • Software Project Consultant • Mentor to young developers • Creator of educational and technical content.
-* 💞️ I’m looking to collaborate on: Open-source educational tools, backend systems, data pipelines, engineering-for-impact projects, and community-driven tech initiatives in Angola and abroad.
+# 👋 Hi, I'm Judson Paiva
 
-🚀 About Me
-I’m an Angolan Software Engineer and Professor passionate about building reliable systems and empowering the next generation of engineers. I combine academic teaching with real-world consulting, helping students and professionals understand concepts deeply and apply them in practical scenarios.
-I’ve supervised dozens of capstone projects, mentored more than 80 programmers, and contributed to strengthening the tech community through training and volunteering.
+**Data Engineer & University Lecturer** based in Luanda, Angola 🇦🇴 — building data
+solutions for the energy sector and teaching the next generation of engineers.
 
-🛠️ Tech Stack
-* Languages:  Python • Java • JavaScript • SQL • C# ;
-* Backend:  FastAPI • Spring Boot • Node.js (basics);
-* Databases:  MySQL • PostgreSQL • SQL Server • MongoDB • Firebase;
-* Data Engineering / Analytics: Pandas • Spark • AWS Glue • AWS Lambda • Redshift • ETL Pipelines;
-* Other:  Git & GitHub • Docker • UML • BPMN • Software Architecture • Unit Testing;
+- 🔭 **What I do:** University Lecturer in Software Engineering, Databases & Algorithms
+  (8+ years) · Data & BI consultant for oil & gas professionals · PhD researcher in
+  Business Intelligence (Universidade Aberta, Portugal)
+- 🌱 **Currently building:** AWS data engineering skills (Glue, Lambda, Redshift),
+  advanced Python (FastAPI, async) and Apache Spark
+- 💼 **Open to:** remote data engineering roles, consulting, and open-source
+  collaboration (WAT timezone — real-time overlap with Europe)
 
-📚 Current Focus
-* Becoming a strong AWS Data Engineer
-* Building practical projects for GitHub in Data, APIs and Software Engineering
-* Creating didactic content for students and junior developers
-* Improving cloud deployment and automation skills
+## 🚀 Featured Projects
 
-🌍 Fun Facts
-* I love transforming complex topics into simple explanations.
-* I frequently volunteer in education and disaster relief projects.
-* I enjoy building complete learning roadmaps for students.
+| Project | Stack | Description |
+|---|---|---|
+| [angola-energy-data-pipeline](link) | Python · PostgreSQL · Docker | ETL pipeline for Angolan oil & gas public data (OPEC, EIA) |
+| [bodiva-market-analytics](link) | Python · Pandas · Streamlit | Automated collection & analysis of Angola's stock exchange data |
+| [sql-challenges](link) | SQL · MySQL | 100 documented SQL challenges: joins, window functions, CTEs, optimization |
+| [python-data-utils](link) | Python | Small, well-tested data tools: CSV cleaner, API clients, validators |
 
-📫 How to Reach Me
+## 🛠️ Tech Stack
 
-📧 Email: judsonpaiva16@gmail.com
+**Data:** Python (Pandas) · SQL · PostgreSQL · MySQL · ETL Pipelines · Power BI
+**Cloud:** AWS (Glue, Lambda, Redshift — learning) · Docker
+**Backend:** FastAPI · Java (Spring Boot)
+**Practices:** Git · Unit Testing · UML · Software Architecture
 
-🔗 LinkedIn: https://www.linkedin.com/in/judson-paiva
+## 🎓 Beyond Code
 
-🐙 GitHub: @PaivaJudson
+- PhD candidate researching **BI platforms for the Angolan petroleum sector**
+- Supervised 30+ capstone projects; mentored 80+ programmers
+- I write about data engineering and teach complex topics simply →
+  [teaching-materials-pt](link) (in Portuguese)
+
+## 📫 Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/judson-paiva) · judsonpaiva16@gmail.com
 
