@@ -15,10 +15,10 @@ solutions for the energy sector and teaching the next generation of engineers.
 
 | Project | Stack | Description |
 |---|---|---|
-| [angola-energy-data-pipeline](link) | Python · PostgreSQL · Docker | ETL pipeline for Angolan oil & gas public data (OPEC, EIA) |
-| [bodiva-market-analytics](link) | Python · Pandas · Streamlit | Automated collection & analysis of Angola's stock exchange data |
+| [angola-energy-data-pipeline](https://github.com/PaivaJudson/angola-energy-data-pipeline) | Python · PostgreSQL · Docker | ETL pipeline for Angolan oil & gas public data (OPEC, EIA) |
+| [bodiva-market-analytics](https://github.com/PaivaJudson/bodiva-market-analytics) | Python · Pandas · Streamlit | Automated collection & analysis of Angola's stock exchange data |
 | [sql-challenges](https://github.com/PaivaJudson/sql-challenges) | SQL · MySQL | 100 documented SQL challenges: joins, window functions, CTEs, optimization |
-| [python-data-utils](link) | Python | Small, well-tested data tools: CSV cleaner, API clients, validators |
+| [python-data-utils](https://github.com/PaivaJudson/python-data-utils) | Python | Small, well-tested data tools: CSV cleaner, API clients, validators |
 
 ## 🛠️ Tech Stack
 
