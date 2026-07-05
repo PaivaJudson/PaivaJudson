@@ -6,8 +6,8 @@ data solutions for the energy sector and teaching the next generation of enginee
 - 🔭 **What I do:** University Lecturer in Software Engineering, Databases &
   Algorithms (8+ years) at **ISPTEC — Instituto Superior Politécnico de
   Tecnologias e Ciências**, Luanda · Data & BI consultant for oil & gas
-  professionals · PhD researcher in Business Intelligence
-  (Universidade Aberta, Portugal)
+  professionals · Postgraduate student in **Data Science, AI & Analytics
+  (USP/Esalq, Brazil)**
 - 🌱 **Currently building:** AWS data engineering skills (Glue, Lambda, Redshift),
   advanced Python (FastAPI, async) and Apache Spark
 - 💼 **Open to:** remote data engineering roles, consulting and open-source
@@ -31,7 +31,7 @@ data solutions for the energy sector and teaching the next generation of enginee
 
 ## 🎓 Beyond Code
 
-- PhD candidate researching **BI platforms for the Angolan petroleum sector**
+- Researching **BI platforms for the Angolan petroleum sector** (PhD application in progress)
 - Supervised 30+ capstone projects · mentored 80+ programmers
 - I teach complex topics simply →
   [teaching-materials-pt](https://github.com/PaivaJudson/teaching-materials-pt) (in Portuguese)
