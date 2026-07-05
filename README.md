@@ -36,10 +36,6 @@ data solutions for the energy sector and teaching the next generation of enginee
 - I teach complex topics simply →
   [teaching-materials-pt](https://github.com/PaivaJudson/teaching-materials-pt) (in Portuguese)
 
-## 📊 GitHub Stats
-
-![Judson's GitHub stats](https://github-readme-stats.vercel.app/api?username=PaivaJudson&show_icons=true&theme=default&hide_border=true)
-
 ## 📫 Reach Me
 
 [LinkedIn](https://www.linkedin.com/in/judson-paiva) · 📧 judsonpaiva16@gmail.com
