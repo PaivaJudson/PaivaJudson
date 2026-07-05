@@ -4,8 +4,10 @@
 data solutions for the energy sector and teaching the next generation of engineers.
 
 - 🔭 **What I do:** University Lecturer in Software Engineering, Databases &
-  Algorithms (8+ years) · Data & BI consultant for oil & gas professionals ·
-  PhD researcher in Business Intelligence (Universidade Aberta, Portugal)
+  Algorithms (8+ years) at **ISPTEC — Instituto Superior Politécnico de
+  Tecnologias e Ciências**, Luanda · Data & BI consultant for oil & gas
+  professionals · PhD researcher in Business Intelligence
+  (Universidade Aberta, Portugal)
 - 🌱 **Currently building:** AWS data engineering skills (Glue, Lambda, Redshift),
   advanced Python (FastAPI, async) and Apache Spark
 - 💼 **Open to:** remote data engineering roles, consulting and open-source
