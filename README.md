@@ -35,6 +35,7 @@ data solutions for the energy sector and teaching the next generation of enginee
 - Supervised 30+ capstone projects · mentored 80+ programmers
 - I teach complex topics simply →
   [teaching-materials-pt](https://github.com/PaivaJudson/teaching-materials-pt) (in Portuguese)
+- Currently studying in public → [data-engineering-lab](https://github.com/PaivaJudson/data-engineering-lab)
 
 ## 📫 Reach Me
 
